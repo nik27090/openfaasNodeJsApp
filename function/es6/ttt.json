@@ -1,0 +1,60 @@
+{
+    "slots": {},
+    "parseTree": {
+        "tag": "root",
+        "pattern": "root",
+        "text": "start",
+        "startPos": 0,
+        "endPos": 1,
+        "words": [
+            "start"
+        ],
+        "_Root": "start"
+    },
+    "client": {
+        "timeoutsCounter": 0,
+        "entities": {}
+    },
+    "session": {
+        "transitions": [],
+        "slot": {}
+    },
+    "request": {
+        "data": {},
+        "requestType": "query",
+        "version": 1,
+        "botId": "8995789649748632962-001_BasicDeploy-8995789649748632962-Yxt-278847167",
+        "accountId": "justai_test_c6a73f6f_922a_4487_a223_75ea1d9adc25",
+        "channelType": "telegram",
+        "channelUserId": "testUserIda9120a33-4008-459e-a2f3-11ea55562f41",
+        "questionId": "d9eb6c51-1ab6-4304-9a48-f5fc8df3c421",
+        "query": "start",
+        "userFrom": {
+            "id": "b20bbc3d-ce71-4e53-bcf6-9b30345b53b7",
+            "firstName": "integration",
+            "lastName": "test",
+            "username": "integration-tests"
+        }
+    },
+    "response": {
+        "nlpClass": "/1",
+        "confidence": 1
+    },
+    "temp": {
+        "classifierTargetState": "/1"
+    },
+    "injector": {},
+    "currentState": "/1",
+    "contextPath": "/1",
+    "contextHistory": [],
+    "nBest": [
+        {
+            "targetState": "/1",
+            "score": 1
+        }
+    ],
+    "sessionId": "testUserIda9120a33-4008-459e-a2f3-11ea55562f41.cc3c269c-6bca-46e2-b0ed-37d49c30d09e",
+    "restrictions": {
+        "repliesSizeLimit": 100
+    }
+}

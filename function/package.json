@@ -1,0 +1,16 @@
+{
+  "name" : "openfaas-node12",
+  "version" : "1.0.0",
+  "description" : "",
+  "main" : "index.js",
+  "scripts" : {
+    "test" : "echo \"Error: no tests specified\" && exit 0"
+  },
+  "keywords" : [ ],
+  "author" : "OpenFaaS Ltd",
+  "license" : "MIT",
+  "dependencies" : {
+    "underscore" : "^1.13.2",
+    "moment" : "^2.29.1"
+  }
+}
