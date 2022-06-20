@@ -1,4 +1,3 @@
-const moment = require("moment-timezone");
 const StatePath = require("./StatePath");
 const TimeoutIntervalUtility = require("./TimeoutIntervalUtility");
 
