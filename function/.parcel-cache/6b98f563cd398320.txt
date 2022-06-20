@@ -2,9 +2,9 @@
 96/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/StatePath.js1655458209596121708 0
 94/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/scripts.js1655735296311824442 0
 87/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/es61655734889231323091 1
-92/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/index.js1655736252347625631 0
-97/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/dist/index.js1655736258583801459 0
-101/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/dist/index.js.map1655736258589801628 0
+92/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/index.js1655737644737912653 0
+97/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/dist/index.js1655737652730138872 0
+101/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/dist/index.js.map1655737652745139297 0
 93/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/system.js1655461764646236361 0
 112/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/ender.js1655734484332845582 0
 122/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/min/locales.min.js1655734484439848626 0
@@ -410,7 +410,7 @@
 120/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/src/locale/ca.js1655734484276843989 0
 124/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/dist/locale/hy-am.js1655734484384847061 0
 122/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/cjs/isEmpty.js1655734484359846350 0
-101/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/package-lock.json1655736316445432619 0
+101/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/package-lock.json1655737368705099565 0
 121/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/locale/uz-latn.js1655734484510850645 0
 122/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/amd/indexBy.js1655734484342845866 0
 121/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/dist/locale/te.js1655734484497850276 0
@@ -445,7 +445,7 @@
 130/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/modules/sortedIndex.js1655734484422848142 0
 122/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/cjs/isMatch.js1655734484371846691 0
 122/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/dist/locale/fil.js1655734484353846179 0
-83/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function1655736252355625857 1
+83/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function1655737644744912851 1
 121/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/amd/negate.js1655734484395847374 0
 129/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/src/lib/utils/is-array.js1655734484390847232 0
 131/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/cjs/_shallowProperty.js1655734484264843647 0
@@ -498,7 +498,7 @@
 122/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/amd/initial.js1655734484343845895 0
 123/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/modules/rest.js1655734484411847829 0
 118/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/cjs/has.js1655734484334845639 0
-88/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/dist1655736258590801656 1
+88/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/dist1655737652747139354 1
 120/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/amd/pluck.js1655734484403847602 0
 120/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/src/locale/fy.js1655734484370846663 0
 121/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/cjs/escape.js1655734484318845183 0
@@ -825,7 +825,7 @@
 127/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/src/lib/utils/to-int.js1655734484503850446 0
 129/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/underscore-esm-min.js1655734484438848597 0
 120/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/src/locale/dv.js1655734484318845183 0
-115/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/.package-lock.json1655736316447432675 0
+115/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/.package-lock.json1655737368708099650 0
 103/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment1655734484529851186 1
 115/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/underscore/modules1655734484457849138 1
 107/opt/openwhisk-devtools/docker-compose/tests/openfaasApp/openfaasNodeJsApp/function/node_modules/moment/src1655734484467849422 1

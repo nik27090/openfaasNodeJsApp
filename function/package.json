@@ -2,7 +2,7 @@
   "name" : "openfaas-node12",
   "version" : "1.0.0",
   "description" : "",
-  "main" : "index.js",
+  "main" : "dist/index.js",
   "scripts" : {
     "test" : "echo \"Error: no tests specified\" && exit 0"
   },
@@ -12,5 +12,10 @@
   "dependencies" : {
     "underscore" : "^1.13.2",
     "moment" : "^2.29.1"
+  },
+  "targets": {
+    "main": {
+      "includeNodeModules": true
+    }
   }
 }
