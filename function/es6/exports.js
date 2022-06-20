@@ -9,8 +9,6 @@ module.exports = (function () {
 
         console.log("222: " + JSON.stringify($session));
         console.log("222: " + JSON.stringify($jsapi.context()));
-        console.log("222: " + JSON.stringify($jsapi.version()));
-        console.log("222: " + JSON.stringify($jsapi.random(4)));
     }
 
 })()
